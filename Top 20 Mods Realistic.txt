@@ -1,0 +1,20 @@
+Realistic Graphics Mod: This mod improves the game's graphics, including lighting, shadows, and reflections, to make it more realistic.
+Realistic Traffic Density and Routing: This mod increases the number of cars and trucks on the road and adjusts their routing to make traffic flow more realistically.
+Realistic Fuel Prices: This mod adjusts fuel prices based on real-world data, making fuel management more challenging and realistic.
+Realistic Weather: This mod adds more realistic weather patterns, including rain, snow, and fog, to the game.
+Realistic Headlight Mod: This mod improves the game's headlights, making them more realistic and effective in dark conditions.
+Realistic Engine Sounds: This mod improves the game's engine sounds, making them more realistic and immersive.
+Realistic AI Traffic Behaviour: This mod adjusts the behavior of AI traffic, making them more realistic and responsive to the player's actions.
+Realistic Truck Physics: This mod adjusts the physics of the game's trucks, making them more realistic and challenging to drive.
+Realistic Truck Interior: This mod improves the game's truck interiors, making them more realistic and immersive.
+Realistic Truck Damage: This mod adjusts the damage system of the game's trucks, making it more realistic and responsive to collisions and accidents.
+Realistic Speed Limits: This mod adjusts the speed limits of the game's roads to match real-world limits.
+Realistic Navigation System: This mod improves the game's navigation system, making it more realistic and accurate.
+Realistic AI Driver Behavior: This mod adjusts the behavior of AI drivers, making them more realistic and responsive to the player's actions.
+Realistic Truck Sounds: This mod improves the game's truck sounds, making them more realistic and immersive.
+Realistic Cargo Management: This mod adjusts the game's cargo management system, making it more realistic and challenging.
+Realistic Night Lighting: This mod improves the game's night lighting, making it more realistic and immersive.
+Realistic Truck Models: This mod improves the game's truck models, making them more realistic and detailed.
+Realistic Trailer Physics: This mod adjusts the physics of the game's trailers, making them more realistic and challenging to tow.
+Realistic Truck Paint Jobs: This mod adds more realistic and detailed paint jobs to the game's trucks.
+Realistic Truck Tuning: This mod allows for more realistic and detailed truck tuning, including engine, transmission, and suspension upgrades.
